@@ -1,0 +1,7 @@
+已经实现的动能：
+1：service为独立进程
+2：多个activity可与service进行绑定
+3：activity可以与service直接发送实体类数据，但实体类必须实现Serializable
+4：service接收到activity的请求之后能及时响应activity
+5：对代码进行了稍微的封装
+6：可以直接对数据库进行操作
